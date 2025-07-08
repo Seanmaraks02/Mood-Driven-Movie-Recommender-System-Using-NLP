@@ -22,13 +22,14 @@ This project demonstrates how to combine **Natural Language Processing (NLP)** a
   - Data loading and exploration
   - Model fine-tuning and evaluation
   - Inference and movie recommendation logic
-- `README.md` — Project documentation.
+- `Mood Driven Recommender Using NLP.pdf` — Project documentation.
+- `README.md` — Project overview.
 
-*(Add any other files if you include them.)*
+
 
 ---
 
-## 🛠 Installation
+## Installation
 
 Clone the repo:
 
@@ -59,10 +60,10 @@ User Input:
 ```
 
 ## Features
-✅ Detects emotions in free-form text using NLP.
-✅ Maps emotions to curated movie lists.
-✅ Demonstrates fine-tuning of transformer models on custom tasks.
-✅ Potential for deployment as a web app or chatbot.
+- Detects emotions in free-form text using NLP.
+- Maps emotions to curated movie lists.
+- Demonstrates fine-tuning of transformer models on custom tasks.
+- Potential for deployment as a web app or chatbot.
 
 ## Possible improvements
 - Expand emotion categories for finer granularity.
